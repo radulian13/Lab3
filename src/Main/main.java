@@ -11,6 +11,9 @@ import com.example.interfaces.IPlay;
  */
 public class main {
     public static void main(String[] args) {
+        /**
+         * testez anumite instrumente, interfata si clasa abstracta
+         */
 
         IPlay playable=new Pian("Marshall","Austria",5);
         Instrument instrument=new Saxofon("Thonman","Romania",10);
